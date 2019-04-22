@@ -8,5 +8,6 @@ namespace PruebaGit.A
 {
     class Clase
     {
+        int x;
     }
 }
